@@ -3,7 +3,7 @@ pillow
 PyOpenGL
 PyOpenGL-accelerate
 six
-networkx
+networkx==2.2
 scikit-image
 scipy
 opencv-python
