@@ -4,6 +4,6 @@ PyOpenGL
 PyOpenGL-accelerate
 six
 networkx
-scikit-image
+scikit-image==0.17.1
 scipy
 opencv-python
