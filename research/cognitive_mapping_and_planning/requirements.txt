@@ -6,4 +6,4 @@ six
 networkx
 scikit-image
 scipy
-opencv-python
+opencv-python==4.3.0.38
