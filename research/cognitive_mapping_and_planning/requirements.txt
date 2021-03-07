@@ -1,5 +1,5 @@
 numpy
-pillow
+pillow==8.1.2
 PyOpenGL
 PyOpenGL-accelerate
 six
